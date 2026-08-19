@@ -1,0 +1,5 @@
+node_modules
+.npm_cache
+dist
+.DS_Store
+*.local
