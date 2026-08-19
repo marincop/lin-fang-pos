@@ -1,0 +1,7 @@
+node_modules
+.npm_cache
+dist
+.git
+.gitignore
+Dockerfile
+.dockerignore
